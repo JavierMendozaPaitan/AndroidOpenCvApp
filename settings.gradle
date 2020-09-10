@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "AndroidOpenCvApp"
+include ':java'
+project(':java').projectDir = new File(opencvsdk + '/sdk')

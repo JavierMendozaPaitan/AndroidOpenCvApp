@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidOpenCvApp</string>
+    <string name="buttxt">Get Image</string>
+    <string name="butttxt">Get Image</string>
+    <string name="imgtxt">ImgGall</string>
+</resources>
